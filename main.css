@@ -14,6 +14,7 @@
       padding:10px; 
     }
     #second{
+      text-align:center;
       height: 70px;
       width:1350px;
       background-color:  #154360 ;
@@ -52,9 +53,6 @@ a:link, a:visited{
     text-align: center;
     text-decoration: none;
     display: inline-block;
-}
-p{
-      background-color:white;
 }
 #rest{
       background-image:url("https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif");
