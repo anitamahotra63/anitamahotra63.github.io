@@ -1,0 +1,46 @@
+
+*{
+      margin:0;
+      padding: 0;
+
+    }
+    #first{
+      height: 100px;
+      width:1350px;
+      background-color: black;
+      color:white;
+      padding:10px; 
+    }
+    #second{
+      height: 70px;
+      width:1350px;
+      background-color: grey;
+      color:white;
+      font-family:Gabriola;
+      font-size:xx-large;
+    }
+    #six{
+      
+      height:400px;
+      width:600px;
+      margin: 10px;
+      margin-left: 20px;
+      display:inline-block;
+    }
+    #six_2{
+      
+      height:400px;
+      width:600px;
+      margin: 10px;
+      margin-left: 20px;
+      display:inline-block;
+      font-family: Calibri;
+      color:black;
+      font-style: xx-large;
+      float: right;
+    }
+    #footer{
+      background-color: black;
+      height:70px;
+      width: 1350px;
+    }
