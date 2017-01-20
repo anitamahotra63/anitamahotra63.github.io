@@ -53,3 +53,6 @@ a:link, a:visited{
     text-decoration: none;
     display: inline-block;
 }
+p{
+      background-color:white;
+}
